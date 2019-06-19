@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cameraParams>
+  <intrinsicParams type_id="opencv-mat">
+    <fx>3095.73828160516</fx>
+    <fy>3102.1298848836359</fy>
+    <cx>2016.7322805317165</cx>
+    <cy>1510.5872677598889</cy>
+  </intrinsicParams>
+  <distortionCoeffs type_id="opencv-mat">
+    <k1>0.21522014938761402</k1>
+    <k2>-0.29536385974743162</k2>
+    <p1>-0.0062158816142389856</p1>
+    <p2>0.0031376495475325976</p2>
+  </distortionCoeffs>
+</cameraParams>
